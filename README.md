@@ -19,10 +19,11 @@ Process done:
 Business scenarios covered:
   This trained Model can be used to classify the food or on regression basis it would be able to estimate the target feature value.
   Ex: 
-  Classification models like : LogisticRegression, KNeighborsClassifier, RandomForestClassifier, GradientBoostingClassifier, SVC and XGBClassifier can classify if the food is GLUTEN FREE or   not 
-  Regression models like: DecisionTreeRegressor, RandomForestRegressor, XGBRegressor, KNeighborsRegressor and GradientBoostingRegressor can estimate the Calories based on the Food, Preparation, Servings. This helps People who plan the meal, to identify approx Cal.
+  - Classification models like : LogisticRegression, KNeighborsClassifier, RandomForestClassifier, GradientBoostingClassifier, SVC and XGBClassifier can classify if the food is GLUTEN FREE or   not 
+  - Regression models like: DecisionTreeRegressor, RandomForestRegressor, XGBRegressor, KNeighborsRegressor and GradientBoostingRegressor can estimate the Calories based on the Food, Preparation, Servings. This helps People who plan the meal, to identify approx Cal.
 
 Future Scope:
 
   > This can be given a user interface to plan the customer meal
+
   > Based on intake of calories the meal can be suggested 
